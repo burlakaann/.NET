@@ -1,0 +1,10 @@
+C:\Users\Aniuta\source\repos\WindowsFormsApp2\Zadanie2\obj\Debug\Zadanie2.csprojAssemblyReference.cache
+C:\Users\Aniuta\source\repos\WindowsFormsApp2\Zadanie2\obj\Debug\Zadanie2.Form2.resources
+C:\Users\Aniuta\source\repos\WindowsFormsApp2\Zadanie2\obj\Debug\Zadanie2.Properties.Resources.resources
+C:\Users\Aniuta\source\repos\WindowsFormsApp2\Zadanie2\obj\Debug\Zadanie2.csproj.GenerateResource.cache
+C:\Users\Aniuta\source\repos\WindowsFormsApp2\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Aniuta\source\repos\WindowsFormsApp2\Zadanie2\bin\Debug\Zadanie2.exe.config
+C:\Users\Aniuta\source\repos\WindowsFormsApp2\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\Aniuta\source\repos\WindowsFormsApp2\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\Aniuta\source\repos\WindowsFormsApp2\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\Aniuta\source\repos\WindowsFormsApp2\Zadanie2\obj\Debug\Zadanie2.pdb

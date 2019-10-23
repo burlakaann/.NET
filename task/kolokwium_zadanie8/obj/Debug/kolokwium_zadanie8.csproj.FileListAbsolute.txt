@@ -1,0 +1,10 @@
+C:\Users\Aniuta\source\repos\kolokwium_zadanie8\kolokwium_zadanie8\bin\Debug\kolokwium_zadanie8.exe.config
+C:\Users\Aniuta\source\repos\kolokwium_zadanie8\kolokwium_zadanie8\bin\Debug\kolokwium_zadanie8.exe
+C:\Users\Aniuta\source\repos\kolokwium_zadanie8\kolokwium_zadanie8\bin\Debug\kolokwium_zadanie8.pdb
+C:\Users\Aniuta\source\repos\kolokwium_zadanie8\kolokwium_zadanie8\obj\Debug\kolokwium_zadanie8.csprojAssemblyReference.cache
+C:\Users\Aniuta\source\repos\kolokwium_zadanie8\kolokwium_zadanie8\obj\Debug\kolokwium_zadanie8.Form1.resources
+C:\Users\Aniuta\source\repos\kolokwium_zadanie8\kolokwium_zadanie8\obj\Debug\kolokwium_zadanie8.Properties.Resources.resources
+C:\Users\Aniuta\source\repos\kolokwium_zadanie8\kolokwium_zadanie8\obj\Debug\kolokwium_zadanie8.csproj.GenerateResource.cache
+C:\Users\Aniuta\source\repos\kolokwium_zadanie8\kolokwium_zadanie8\obj\Debug\kolokwium_zadanie8.csproj.CoreCompileInputs.cache
+C:\Users\Aniuta\source\repos\kolokwium_zadanie8\kolokwium_zadanie8\obj\Debug\kolokwium_zadanie8.exe
+C:\Users\Aniuta\source\repos\kolokwium_zadanie8\kolokwium_zadanie8\obj\Debug\kolokwium_zadanie8.pdb
